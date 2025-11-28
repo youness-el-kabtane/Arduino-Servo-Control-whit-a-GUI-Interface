@@ -308,7 +308,7 @@ This function builds a control panel for **each servo**:
 ---
 **Author:** Youness El Kabtane
 
-**Website:** [younesselkabtane](https://sites.google.com/view/younesselkabtane/home?authuser=1)
+**Website:** [younesselkabtane](https://youness-el-kabtane.github.io/site/)
 
 **Version:** 1.0.0
 
